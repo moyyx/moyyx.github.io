@@ -3,7 +3,7 @@ name: StevDesign
 email: contact@stevdesign.com
 description: 专注客户品牌价值设计与管理
 
-baseurl: "/blog"
+baseurl: "/news"
 url: ""
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
@@ -11,7 +11,7 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: "品牌规划"
 project_one_description: 在充分论证品牌战略基础上，为品牌的视觉、网络、产品设计落地制定可行的管理规范
-project_one_url: http：//stevdesign.com
+project_one_url: http://stevdesign.com
 project_one_icon: location_on
 
 project_two: 视觉传达
@@ -26,8 +26,8 @@ project_three_url: http://stevdesign.com
 project_three_icon: hotel
 
 
-project_four: 资源管理
-project_four_description: 帮助企业建立并有效管理整体互联网虚拟资产，提供品牌互联网拓展方案管理服务
+project_four: 媒体运营
+project_four_description: 帮助企业建立并有效管理整体互联网媒体资源，提供品牌互联网拓展方案管理服务
 project_four_url: http://stevdesign.com
 project_four_icon: restaurant
 
@@ -45,7 +45,7 @@ skills:
   - name: appcelerator
   - name: apple
   - name: atom
-  - name: babel
+  - name: babel 
   - name: backbonejs
   - name: bitbucket
   - name: bootstrap
@@ -144,8 +144,8 @@ colored: colored # Leave blank for black and white icons
 
 project_button: 服务预约
 
-github: mailto:contact@stevdesign.com
-medium: https://medium.com
+服务预约: mailto:contact@stevdesign.com
+联系我们: http://stevdesign.com/about
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
