@@ -11,24 +11,24 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: "品牌规划"
 project_one_description: 在充分论证品牌战略基础上，为品牌的视觉、网络、产品设计落地制定可行的管理规范
-project_one_url: http://stevdesign.com
+project_one_url: mailto:contact@stevdesign.com
 project_one_icon: location_on
 
 project_two: 视觉传达
 project_two_description: 在品牌规划原则指导下，为企业提供品牌视觉形象识别系统设计及整体VI设计实现
-project_two_url: http://stevdesign.com
+project_two_url: mailto:contact@stevdesign.com
 project_two_icon: photo_camera
 
 
 project_three: 全案设计
 project_three_description: 包括网络端与线下静态、动态广告的平面设计与实现，跨平台响应式应用设计服务
-project_three_url: http://stevdesign.com
+project_three_url: mailto:contact@stevdesign.com
 project_three_icon: hotel
 
 
 project_four: 媒体运营
 project_four_description: 帮助企业建立并有效管理整体互联网媒体资源，提供品牌互联网拓展方案管理服务
-project_four_url: http://stevdesign.com
+project_four_url: mailto:contact@stevdesign.com
 project_four_icon: restaurant
 
 portfolio_heading: 业务范围
