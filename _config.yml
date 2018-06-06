@@ -1,7 +1,7 @@
-title: StevDesign设计工作室
+title: StevDesign Studio
 name: StevDesign
 email: contact@stevdesign.com
-description: StevDesign专注客户品牌价值设计与管理
+description: 专注客户品牌价值设计与管理
 
 baseurl: "/blog"
 url: ""
@@ -9,29 +9,29 @@ url: ""
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "品牌规划"
+project_one_description: 在充分论证品牌战略基础上，为品牌的视觉、网络、产品设计落地制定可行的管理规范
+project_one_url: http：//stevdesign.com
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: 视觉传达
+project_two_description: 在品牌规划原则指导下，为企业提供品牌视觉形象识别系统设计及整体VI设计实现
+project_two_url: http://stevdesign.com
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: 全案设计
+project_three_description: 包括网络端与线下静态、动态广告的平面设计与实现，跨平台响应式应用设计服务
+project_three_url: http://stevdesign.com
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: 资源管理
+project_four_description: 帮助企业建立并有效管理整体互联网虚拟资产，提供品牌互联网拓展方案管理服务
+project_four_url: http://stevdesign.com
 project_four_icon: restaurant
 
-portfolio_heading: Portfolio
+portfolio_heading: 业务范围
 portfolio_type: cards
 
 syntax_highlighting: true
@@ -142,9 +142,9 @@ skills:
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: Github
+project_button: 服务预约
 
-github: https://github.com/jameshamann/jekyll-material-theme
+github: mailto:contact@stevdesign.com
 medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
