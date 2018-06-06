@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2017-12-04 21:15:05 +0000
+title:  "精益设计"
+date:   2017-11-08 21:15:05 +0000
 image: /assets/images/startup.jpg
 
 ---
