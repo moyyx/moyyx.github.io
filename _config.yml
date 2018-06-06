@@ -144,8 +144,8 @@ colored: colored # Leave blank for black and white icons
 
 project_button: 服务预约
 
-服务预约: mailto:contact@stevdesign.com
-联系我们: http://stevdesign.com/about
+# 服务预约: mailto:contact@stevdesign.com
+# 联系我们: http://stevdesign.com/about
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
