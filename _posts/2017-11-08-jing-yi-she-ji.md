@@ -5,42 +5,8 @@ date:   2017-11-08 21:15:05 +0000
 image: /assets/images/startup.jpg
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+企业文化系统创建工作遵循文化时态诊断、文化导向研究、核心理念和职能理念系统创建、行为识别系统创建这一流程。通过对企业发展历程的挖掘，着眼现实，充分展望未来，为企业梳理并建立有积累、有实效、有前瞻性的文化系统，满足企业发展的文化需要。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+企业文化系统的价值实现路径及其意义在于统一企业成员价值观，助力企业发展。每个员工对企业文化的深入理解，是企业文化价值实现的基础。我们通过专业的流程为客户进行企业文化的导入，真正发挥企业文化的价值和实际作用。
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+品牌识别是企业希望创造和保持的，能打动消费者并区别于竞争者的品牌联想，与品牌核心价值共同构成丰满的品牌联想。这些联想暗示着企业对消费者的某种承诺。一个强势品牌必然有丰满、鲜明的品牌识别。科学完整地规划品牌识别体系后，品牌核心价值就能有效落地，并与日常的营销传播活动，有效对接，企业的营销传播活动才有了标准与方向。StevDesign为客户提供品牌命名、企业形象VI设计、CI导入等全方位品牌识别解决方案。在过去的十年中，StevDesign获得多项国内外重要设计大奖，赢得无数荣誉。我们客户分布于政府、文化、金融、 IT、电信、烟草、房地产、日化、工业、快消品等部门和行业。
